@@ -1,1 +1,1 @@
-# Talkey Game Animations
+# TG Animations
